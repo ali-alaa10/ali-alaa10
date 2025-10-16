@@ -27,11 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px; width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="margin: 10px; width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" style="margin: 10px; width: 40px; height: 40px;"/>
-
 </div>
 
 ## 🌐React Libraries :
@@ -43,24 +40,38 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo" style="margin: 10px; width: 40px; height: 40px;"/>
 </div>
 
+## ⚙️ Backend :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" style="margin: 1rem; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://www.drupal.org/files/issues/2023-06-12/twig_tweak_original-fs8.png" height="30" alt="Twig logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
+## 💾 Backend Libraries :
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="Composer logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
 ## 💻Languages & Tools :
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="margin: 10px; width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" height="30" alt="figma logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PHPStorm logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="CLion logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
 </div>
 
 ## 🤵Connect with Me :
 <div align="left">
-  <a href="https://www.linkedin.com/in/ihabmahmoud1" target="_blank">
+  <a href="www.linkedin.com/in/ali-alaa-2b2530265" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Ihab__mahmoud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
