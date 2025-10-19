@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Ali Alaa and I'm a frontend developer</h2>
+<h2 align="left">Hi 👋! My name is Ramadan Alaa and I'm a frontend developer</h2>
 
 ## 📈My Stats.
 <p align="center">
-  <a href="https://github.com/ali-alaa10?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ali-alaa10&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@ali-alaa10's GitHub stats"/>
+  <a href="https://github.com/ramadan-alaa?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramadan-alaa&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@ramadan-alaa's GitHub stats"/>
   </a>
-  <a href="https://github.com/ali-alaa10?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ali-alaa10&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ali-alaa10's GitHub streak"/>
+  <a href="https://github.com/ramadan-alaa?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ramadan-alaa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@ramadan-alaa's GitHub streak"/>
   </a>
 </p>
 
@@ -14,8 +14,8 @@
 
 ## 🎖️My Trophies :
 <p align="left">
-  <a href="https://github.com/ali-alaa10/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-alaa10&theme=onedark" alt="trophy">
+  <a href="https://github.com/ramadan-alaa/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramadan-alaa&theme=onedark" alt="trophy">
   </a>
 </p>
 
@@ -70,13 +70,13 @@
 
 ## 🤵Connect with Me :
 <div align="left">
-  <a href="www.linkedin.com/in/ali-alaa-2b2530265" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ramadan-alaa-2b2530265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Logo" />
   </a>
 </div>
 
 <br clear="both">
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/ali-alaa10/ali-alaa10/output/snake.svg" alt="Snake animation" />
+  <img align="center" src="https://raw.githubusercontent.com/ramadan-alaa/ramadan-alaa/output/snake.svg" alt="Snake animation" />
 </div>
